@@ -1,0 +1,135 @@
+::before {
+  box-sizing: border-box;-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue";
+  font-size: 20px;
+}
+
+.top-bar {
+  background-color: #06D6A0;
+  color: white;
+  padding: 0 5px;
+  overflow: hidden;
+}
+
+
+.nav-list-menu {
+  float: right;
+  display:inline-block;
+  list-style: none;
+  padding: 0 30px;
+  margin: 10px;
+}
+.nav-list-menu > li {
+  display: inline;
+  padding: 5px;
+  font-size: 19.2px;
+  font-family: "Helvetica Neue";
+
+}
+.title {
+  float:left;
+  padding: 0 10px;
+  font-family: "Helvetica Neue";
+  width: 50%;
+  margin: 10px;
+}
+
+.container-title {
+  width: 900px;
+  overflow: hidden;
+  margin: 0 auto;
+  background-color: #26547C;
+  height: 309px;
+}
+
+#title-pic {
+  max-width: 100%;
+  width: 500px;
+  float: left;
+  width: 60%;
+
+}
+
+#meow-title {
+  margin: 30px 0px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  font-family: "Helvetica Neue";
+  float: right;
+  width: 40%;
+
+}
+.container-orange {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #FFD166;
+  overflow: hidden;
+}
+.cat-text {
+  width: 90%;
+  margin: 0 auto;
+  font-family: "Helvetica Neue";
+  font-size: 20px;
+}
+
+.footer {
+  width: 100%;
+  background-color: #06D6A0;
+  height: 50px;
+}
+
+#end {
+  float: right;
+  padding: 0 30px;
+}
+
+.container-gray {
+  width: 900px;
+  margin: 0 auto;
+  background: #F2F2F2;
+}
+.container-bottom {
+  width: 900px;
+  margin: 0 auto;
+  background-color: #26547C;
+}
+
+.cat-picture {
+  display: inline;
+  max-width: 100%;
+  width: 30%;
+  border: solid black 2px;
+  margin: 10px;
+
+}
+.products{
+  padding: 30px;
+}
+.content{
+  padding: 50px;
+  color: white;
+
+}
+
+.values{
+  color: red;
+  display: inline-block;
+  width: 100%;
+  overflow: hidden;
+}
+
+.values h2 {
+  display: inline-block;
+  padding: 20px 10%;
+  text-align: center;
+  color: #EF476F;
+}
+ h2 {
+   font-size: 25px;
+ }
